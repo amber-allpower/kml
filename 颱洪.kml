@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>颱洪</name>
+	<gx:CascadingStyle kml:id="__managed_style_08C16625713508F7AF09">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11D78114353508F7AF08">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D4DA650A03508F7AF08">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11D78114353508F7AF08</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_08C16625713508F7AF09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06DD99A1EC3508F7AEFA">
+		<name>新竹市政府</name>
+		<LookAt>
+			<longitude>120.9770516089844</longitude>
+			<latitude>24.80670266585845</latitude>
+			<altitude>0</altitude>
+			<heading>4.190727416082337e-10</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4126.061108220325</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Point>
+			<coordinates>120.9690090260778,24.80664877408906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047AB91BD93508FD794F">
+		<name>新竹市消防局</name>
+		<LookAt>
+			<longitude>120.9580153320942</longitude>
+			<latitude>24.81056029702313</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>152.1357034552714</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Point>
+			<coordinates>120.9576197703419,24.81055727191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03E43C263E3508FF5A41">
+		<name>香山區公所</name>
+		<LookAt>
+			<longitude>120.9422676642504</longitude>
+			<latitude>24.79404894848651</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.9995733670691</gx:fovy>
+			<range>779.1581596807943</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Point>
+			<coordinates>120.9422774108905,24.79405854442955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E84740583508FFF1D9">
+		<name>東區區公所</name>
+		<LookAt>
+			<longitude>120.9718199710659</longitude>
+			<latitude>24.80509771440809</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999995210644</gx:fovy>
+			<range>778.1323161906413</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Point>
+			<coordinates>120.9718111274754,24.80511310598165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F6B106ABF3509007616">
+		<name>北區區公所</name>
+		<LookAt>
+			<longitude>120.9703473</longitude>
+			<latitude>24.8164121</latitude>
+			<altitude>15.26527908208914</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>758.6896993821283</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Point>
+			<coordinates>120.9703597338756,24.81638793992238,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0371D30BB7350908D668">
+		<name>新竹市</name>
+		<LookAt>
+			<longitude>120.9784982645976</longitude>
+			<latitude>24.76663997100324</latitude>
+			<altitude>0</altitude>
+			<heading>8.740258240275038</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999998015</gx:fovy>
+			<range>48177.80401895489</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D4DA650A03508F7AF08</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						120.9181454878649,24.83814224427957,0 120.9068679080593,24.81893167469436,0 120.8940537069654,24.78805464701608,0 120.9009332402618,24.76953232466922,0 120.899005364418,24.7532949454915,0 120.8795214234323,24.73439209416556,0 120.8886796251698,24.73248490719271,0 120.8971393438621,24.73269358736065,0 120.9061660368889,24.73954512662436,0 120.9112287388797,24.73272169227965,0 120.9170650585037,24.72098578068309,0 120.9139732851878,24.71583410113786,0 120.9295535382635,24.7151940414772,0 120.9357110846941,24.71136939797281,0 120.9392704967869,24.72521182601982,0 120.936939154408,24.72926234496514,0 120.9429499678758,24.72771660054222,0 120.940625062063,24.7366808585676,0 120.9437433496446,24.74535281969901,0 120.9560453661368,24.7430088859434,0 120.9582389583785,24.74555650352846,0 120.9554125266026,24.74793879408465,0 120.9591947964146,24.75028559980203,0 120.963474962968,24.75474585678683,0 120.9668754845299,24.75907141699864,0 120.9711322192607,24.76566441920167,0 120.9796127912789,24.76433124707179,0 120.9881154142804,24.76767374316323,0 120.9826587726317,24.77276928488653,0 120.9855248465973,24.77655194187655,0 120.989377681249,24.77615554263468,0 120.9926587002359,24.78039997047115,0 121.0134676969501,24.77106610797062,0 121.0219221078526,24.75533440714371,0 121.0335721198155,24.7626968365368,0 121.0269609392099,24.77952706995293,0 121.0229009824476,24.78485385966853,0 121.0256440599714,24.78772302592564,0 121.0209149961605,24.79427917367293,0 121.024420007527,24.79812714377241,0 121.0199956065957,24.80681767121172,0 121.0027007572804,24.82138484844229,0 120.9895119639276,24.82414412539451,0 120.9841540687001,24.83144523319873,0 120.9744945878522,24.82943345813287,0 120.9689994166058,24.83281908011619,0 120.9573428742942,24.83314517812664,0 120.9449888920777,24.84149639232399,0 120.9363417507809,24.85284194579251,0 120.920874984339,24.85158225680591,0 120.9181454878649,24.83814224427957,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
